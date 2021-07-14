@@ -1,2 +1,2 @@
 # imgForMd
-图床
+PicGo图床
